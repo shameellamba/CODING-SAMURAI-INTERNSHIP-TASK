@@ -13,7 +13,7 @@ Internship Oct 6- Nov 6, 2024 at Coding Samurai.
 
 This calculator app provides a user-friendly interface for performing basic arithmetic calculations. It includes features like addition, subtraction, multiplication, division, and the ability to handle decimal numbers.
 
-![ScreenShot Calculator App](https://ibb.co/kKs3whw)
+![ScreenShot Calculator App](CalculatorApp/screencalc.png)
   
 
 ### Technologies Used
