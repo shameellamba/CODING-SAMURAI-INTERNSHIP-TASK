@@ -61,3 +61,18 @@ This calculator app provides a user-friendly interface for performing basic arit
 *Enhancements*: Consider adding features like parentheses, exponents, or trigonometric functions for advanced calculations.
 
 **Enjoy using the calculator app!**
+
+# Todo App using DOM
+
+A simple todo application built with HTML, CSS, and JavaScript.
+
+**Watch the video**  ---> (https://youtube.com/shorts/6pw7sEiYen0?feature=share)
+
+![DOM ToDo App](dom_todo_app/todo.png)
+
+## Features:
+
+* Add new todos
+* Mark todos as completed
+* Clear completed todos
+* Stylish and responsive design
